@@ -1,0 +1,7 @@
+.gridView{
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(auto-fit, 500px); 
+    gap: 10px; 
+    justify-content: center;
+}
