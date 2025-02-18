@@ -16,13 +16,13 @@ export const Navbar = () => {
             </div>
             <ul className={menuOpen ? "open" : ""}>
                 <li>
-                    <NavLink to="/industrial">Industrial</NavLink>
+                    <NavLink to="/nova/industrial" onClick={() => setMenuOpen(!menuOpen)}>Industrial</NavLink>
                 </li>
                 <li>
-                    <NavLink to="/household">HouseHold</NavLink>
+                    <NavLink to="/nova/household" onClick={() => setMenuOpen(!menuOpen)}>HouseHold</NavLink>
                 </li>
                 <li>
-                    <NavLink to="/about">About</NavLink>
+                    <NavLink to="/nova/about" onClick={() => setMenuOpen(!menuOpen)}>About</NavLink>
                 </li>
             </ul>
         </nav>
