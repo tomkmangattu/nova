@@ -1,4 +1,4 @@
-import React, {useState} from "react"
+import  {useState} from "react"
 import { Link, NavLink } from "react-router-dom"
 import './index.scss'
 
@@ -8,7 +8,7 @@ export const Navbar = () => {
 
     return (
         <nav>
-            <Link to="/" className = "title" >Website</Link>
+            <Link to="/nova/" className = "title" >Website</Link>
             <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>
                 <span></span>
                 <span></span>

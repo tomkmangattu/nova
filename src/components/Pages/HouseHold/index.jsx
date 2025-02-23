@@ -1,4 +1,3 @@
-import React from "react";
 import { Card } from "../../Card";
 import myImage from '../../../assets/images/house1.jpg';
 import { Grid } from "../../Grid";
@@ -15,7 +14,7 @@ export const HouseHold = () => {
     return <div>
         <Grid>
             {houses.map((house, index) => (
-                <Card title={house.title} description={house.description} myImage={house.image}></Card>
+                <Card key={index} building={house}></Card>
             ))}
       </Grid>
     </div>

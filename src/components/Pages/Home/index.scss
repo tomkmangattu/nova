@@ -1,0 +1,29 @@
+
+.landingContainer{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.landingImage{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.introduction{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    color: black;
+}
+
+.landingButtons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 2rem;
+}
