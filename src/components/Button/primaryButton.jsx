@@ -5,7 +5,7 @@ import { faArrowUpRightFromSquare } from '@fortawesome/free-solid-svg-icons';
 
 export const PrimaryButton = ({buttonText}) => {
     return <button className="primaryButton" role="button">
-        <div>{buttonText}</div> 
+        <div className="buttonText">{buttonText}</div> 
         <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
     </button>;
 };

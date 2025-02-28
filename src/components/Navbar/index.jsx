@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router-dom"
 import './index.scss'
 
 export const Navbar = () => {
-
+    
     const [menuOpen, setMenuOpen] = useState(false)
 
     return (

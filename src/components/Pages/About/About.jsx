@@ -1,261 +1,103 @@
-import React from "react";
+import { AboutItem } from '../../AboutItem/aboutItem';
+import './style.scss';
 
 export const About = () => {
-  return (
-    <div>
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
 
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
-      <div>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo placeat,
-        repudiandae eos pariatur ex temporibus in laudantium sequi fugit iste
-        nostrum quasi ad distinctio cum, nemo praesentium. Quasi alias odit
-        maiores totam quam pariatur debitis asperiores ut veniam quae itaque
-        eos, quisquam, iure, temporibus ratione nihil. Fuga, laboriosam quo
-        ducimus, tempore soluta voluptatum quod nesciunt necessitatibus tenetur
-        aperiam quasi possimus tempora eveniet magnam architecto! Vero quae quas
-        ullam minus recusandae quidem dicta officia numquam corporis neque
-        dolore asperiores nesciunt, magnam quia blanditiis, et odio doloremque
-        vitae qui delectus omnis. Deserunt iste odit maiores magnam omnis harum
-        beatae laboriosam temporibus fugiat!
-      </div>
-      <br />
+  const questionAnswers = [
+    {
+      question: "Why should you choose Nova Constructions?",
+      answer: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+      Duis vulputate commodo lectus, ac blandit elit tincidunt id. 
+      Sed rhoncus, tortor sed eleifend tristique, tortor mauris. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Repellat eum molestias reprehenderit! 
+      Et, quia. Saepe aspernatur dolores dolor magnam quasi 
+      tempora sint cupiditate aut magni corrupti ipsam, ad numquam in.`
+    },
+    {
+      question: "Why should you choose Nova Constructions?",
+      answer: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+      Duis vulputate commodo lectus, ac blandit elit tincidunt id. 
+      Sed rhoncus, tortor sed eleifend tristique, tortor mauris. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Repellat eum molestias reprehenderit! 
+      Et, quia. Saepe aspernatur dolores dolor magnam quasi 
+      tempora sint cupiditate aut magni corrupti ipsam, ad numquam in.`
+    },
+    {
+      question: "Why should you choose Nova Constructions?",
+      answer: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+      Duis vulputate commodo lectus, ac blandit elit tincidunt id. 
+      Sed rhoncus, tortor sed eleifend tristique, tortor mauris. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Repellat eum molestias reprehenderit! 
+      Et, quia. Saepe aspernatur dolores dolor magnam quasi 
+      tempora sint cupiditate aut magni corrupti ipsam, ad numquam in.`
+    },
+    {
+      question: "Why should you choose Nova Constructions?",
+      answer: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+      Duis vulputate commodo lectus, ac blandit elit tincidunt id. 
+      Sed rhoncus, tortor sed eleifend tristique, tortor mauris. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Repellat eum molestias reprehenderit! 
+      Et, quia. Saepe aspernatur dolores dolor magnam quasi 
+      tempora sint cupiditate aut magni corrupti ipsam, ad numquam in.`
+    },
+    {
+      question: "Why should you choose Nova Constructions?",
+      answer: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+      Duis vulputate commodo lectus, ac blandit elit tincidunt id. 
+      Sed rhoncus, tortor sed eleifend tristique, tortor mauris. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Repellat eum molestias reprehenderit! 
+      Et, quia. Saepe aspernatur dolores dolor magnam quasi 
+      tempora sint cupiditate aut magni corrupti ipsam, ad numquam in.`
+    },
+    {
+      question: "Why should you choose Nova Constructions?",
+      answer: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+      Duis vulputate commodo lectus, ac blandit elit tincidunt id. 
+      Sed rhoncus, tortor sed eleifend tristique, tortor mauris. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Repellat eum molestias reprehenderit! 
+      Et, quia. Saepe aspernatur dolores dolor magnam quasi 
+      tempora sint cupiditate aut magni corrupti ipsam, ad numquam in.`
+    },
+    {
+      question: "Why should you choose Nova Constructions?",
+      answer: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+      Duis vulputate commodo lectus, ac blandit elit tincidunt id. 
+      Sed rhoncus, tortor sed eleifend tristique, tortor mauris. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Repellat eum molestias reprehenderit! 
+      Et, quia. Saepe aspernatur dolores dolor magnam quasi 
+      tempora sint cupiditate aut magni corrupti ipsam, ad numquam in.`
+    },
+    {
+      question: "Why should you choose Nova Constructions?",
+      answer: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+      Duis vulputate commodo lectus, ac blandit elit tincidunt id. 
+      Sed rhoncus, tortor sed eleifend tristique, tortor mauris. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      Repellat eum molestias reprehenderit! 
+      Et, quia. Saepe aspernatur dolores dolor magnam quasi 
+      tempora sint cupiditate aut magni corrupti ipsam, ad numquam in.`
+    },
+    ]
+
+  return (
+    <div className="aboutPage">
+      <h1 className='heading'>Nova Builders</h1>
+      {questionAnswers.map((qa, index) => AboutItem({questionAnswer: qa, key: index}))}
     </div>
-  );
+  )
 };
